@@ -1,5 +1,8 @@
 _repo: Makers-of-Japan_70710
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70710-h/images/cover.jpg
 creator:
   author:
     agent_name: Morris, Joseph E. (Joseph Ernest)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1412'
     url: http://www.gutenberg.org/2009/agents/1412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70710#Makers-of-Japan
 gutenberg_issued: '2023-05-06'
 identifiers:
   gutenberg: '70710'
